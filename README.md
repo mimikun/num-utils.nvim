@@ -1,5 +1,9 @@
 # num-utils.nvim
 
+THIS IS FORK.
+[ORIGINAL](https://github.com/mintsuku/num-utils.nvim) IS DEAD(404 Page not found).
+
+---
 
 A lightweight Neovim plugin for quick number conversions between decimal, hexadecimal, binary, and octal formats.
 
